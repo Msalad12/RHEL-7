@@ -1,0 +1,7 @@
+#To check if firewall-d is running or not
+-----------------------------------------
+firewall-cmd --state
+or
+systemctl status firewalld
+
+
